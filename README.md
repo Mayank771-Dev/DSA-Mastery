@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
