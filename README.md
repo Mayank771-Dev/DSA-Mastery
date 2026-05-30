@@ -21,11 +21,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
+| [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0007-reverse-integer) |
+| [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0102-binary-tree-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
