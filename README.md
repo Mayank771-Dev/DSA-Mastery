@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -40,11 +41,13 @@
 | [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
+| [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 ## Binary Search
 |  |
@@ -83,5 +86,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
