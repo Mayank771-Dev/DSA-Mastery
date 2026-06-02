@@ -7,10 +7,6 @@ public:
         unordered_set<int>Checked;
         while(!canCheck.empty()){
             int val=canCheck.top();
-            if(Checked.contains(val)){
-                canCheck.pop();
-                continue;
-            }
             Checked.insert(val);
             canCheck.pop();
             if(arr[val]==0){
@@ -18,8 +14,10 @@ public:
                 break;
             }
             else{
-                if(val+arr[val]<arr.size())  canCheck.push(val+arr[val]);
-                if(val-arr[val]>=0) canCheck.push(val-arr[val]);
+                int add=val+arr[val];
+                int sub=val-arr[val];
+                if(add<arr.size() && !Checked.contains(add))  canCheck.push(val+arr[val]);
+                if(sub>=0 && !Checked.contains(sub)) canCheck.push(val-arr[val]);
             }
         }
         return exist;
