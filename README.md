@@ -18,6 +18,7 @@
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +104,7 @@
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
