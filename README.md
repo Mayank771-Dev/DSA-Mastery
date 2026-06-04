@@ -36,6 +36,7 @@
 | [0007-reverse-integer](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0007-reverse-integer) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1306-jump-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
