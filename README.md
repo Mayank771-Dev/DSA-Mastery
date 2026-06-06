@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2574-left-and-right-sum-differences) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
