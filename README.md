@@ -145,9 +145,11 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
+| [3612-process-string-with-special-operations-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
