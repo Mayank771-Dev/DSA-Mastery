@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
