@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3751-total-waviness-of-numbers-in-range-i) |
