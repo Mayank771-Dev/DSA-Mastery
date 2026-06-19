@@ -17,6 +17,7 @@
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1306-jump-game-iii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1306-jump-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2574-left-and-right-sum-differences) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2574-left-and-right-sum-differences) |
 ## String
 |  |
