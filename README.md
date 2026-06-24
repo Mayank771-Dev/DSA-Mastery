@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
+| [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1306-jump-game-iii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1306-jump-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
