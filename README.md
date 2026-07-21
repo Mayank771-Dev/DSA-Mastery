@@ -47,6 +47,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
@@ -179,5 +181,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
