@@ -27,12 +27,14 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
