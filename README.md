@@ -228,6 +228,7 @@
 | [1693-daily-leads-and-partners](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
