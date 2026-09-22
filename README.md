@@ -219,6 +219,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
