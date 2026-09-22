@@ -24,6 +24,7 @@
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2574-left-and-right-sum-differences) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
