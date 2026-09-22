@@ -1,5 +1,5 @@
-class Solution(object):
-    def findMaxConsecutiveOnes(self, nums):
+class Solution:
+    def findMaxConsecutiveOnes(self, nums: list[int]) -> int:
         maxval=0
         count=0
         for i in range(len(nums)):
@@ -10,5 +10,3 @@ class Solution(object):
                 count=0
         maxval = max(count, maxval)
         return maxval
-        
-        
