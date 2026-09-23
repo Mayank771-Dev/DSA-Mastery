@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
@@ -186,6 +190,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 ## Memoization
 |  |
@@ -244,4 +249,8 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
