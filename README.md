@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
