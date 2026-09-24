@@ -77,6 +77,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
+| [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
@@ -177,6 +178,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
