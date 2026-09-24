@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -174,6 +175,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3612-process-string-with-special-operations-i) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 ## Memoization
 |  |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
