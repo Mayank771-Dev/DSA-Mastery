@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +61,7 @@
 | [0009-palindrome-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0509-fibonacci-number) |
@@ -78,6 +80,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
