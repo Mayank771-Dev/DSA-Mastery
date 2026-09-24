@@ -59,6 +59,7 @@
 | [0009-palindrome-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
