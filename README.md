@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
