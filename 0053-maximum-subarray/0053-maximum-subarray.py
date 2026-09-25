@@ -1,6 +1,6 @@
-class Solution(object):
-    def maxSubArray(self, nums):
-        maxsum=nums[0]
+class Solution:
+    def maxSubArray(self, nums: list[int]) -> int:
+        maxsum=-float('inf')
         sum=0
         for i in range(len(nums)):
             sum+=nums[i]
@@ -8,5 +8,5 @@ class Solution(object):
             if sum<0:
                 sum=0
         return maxsum
-        
-        
+
+            
