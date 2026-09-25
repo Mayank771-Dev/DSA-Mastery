@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
@@ -47,6 +48,7 @@
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -89,6 +91,7 @@
 | [0125-valid-palindrome](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
@@ -114,6 +117,7 @@
 | [0035-search-insert-position](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -161,6 +165,7 @@
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
