@@ -192,6 +192,7 @@
 | [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3838-weighted-word-mapping) |
@@ -284,4 +285,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
