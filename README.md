@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
@@ -88,6 +89,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
@@ -162,6 +164,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
