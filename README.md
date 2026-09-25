@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0035-search-insert-position) |
@@ -185,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0392-is-subsequence) |
@@ -276,4 +278,8 @@
 | ------- |
 | [0136-single-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
