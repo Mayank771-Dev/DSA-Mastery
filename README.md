@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
@@ -45,6 +46,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -66,6 +68,7 @@
 | [0070-climbing-stairs](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -110,6 +113,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [3161-block-placement-queries](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -156,6 +160,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/2126-destroying-asteroids) |
@@ -281,6 +286,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mayank771-Dev/DSA-Mastery/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
