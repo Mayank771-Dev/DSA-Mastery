@@ -1,8 +1,7 @@
-class Solution(object):
-    def searchInsert(self, nums, target):
+class Solution:
+    def searchInsert(self, nums: list[int], target: int) -> int:
         for i in range(len(nums)):
-            if nums[i]>=target:
+            if(target<=nums[i]):
                 return i
         return len(nums)
-            
-            
+        
